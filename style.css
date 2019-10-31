@@ -38,6 +38,7 @@ nav {
  
  #details {
    display: block;
+   background-color: red;
  }
  
  div {
