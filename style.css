@@ -38,13 +38,13 @@ nav {
  
  #details {
    display: block;
-   background-color: red;
  }
  
  div {
       float: left;
       width: 25%;
       text-align: center;
+   background-color: red;
  }
  
  
