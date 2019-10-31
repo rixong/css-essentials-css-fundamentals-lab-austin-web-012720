@@ -16,7 +16,7 @@ nav {
    text-align: center;
  }
  
- a {
+ nav a {
    padding: 10px;
    background-color: gray;
    color: white;
