@@ -38,8 +38,10 @@ nav {
  
  #details {
    display: block;
-   float: left;
-   
+ }
+ 
+ div {
+      float: left;
  }
  
  
